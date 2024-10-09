@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Douglas Domingues ("Perfil em construção")</h1>
+<h1 align="center">Olá 👋, Eu sou Douglas Domingues ("Portfólio em construção")</h1>
 <h3 align="center">Um entusiasta em Análise e Ciência de Dados no mundo digital</h3>
 
 - 🔭 Atualmente sou um Consultor em Ciência de Dados 
