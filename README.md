@@ -5,7 +5,7 @@
 
 - 🌱 No momento, estou aprendendo um pouco mais sobre **Pyhton, PySpark, Machine Learning, IA Generativa e Power BI**
 
-- 👨‍💻 Todos os projetos desenvolvidos, podem ser achados em meu portfólio pessoal [inserir link]([preencher_link])
+- 👨‍💻 Todos os projetos desenvolvidos, podem ser achados em meu portfólio pessoal [inserir link](https://github.com/Douglaas92?tab=repositories)
 
 - 💬 Me pergunte sobre **SQL, Python, Modelos de ML, Estatística Básica**
 
