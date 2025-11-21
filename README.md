@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Douglas Domingues ("Portfólio em construção")</h1>
+<h1 align="center">Olá 👋, Eu sou Douglas Domingues - Cientista de Dados</h1>
 <h3 align="center">Este repositório é apenas para fins de estudos acadêmicos</h3>
 
 - 🔭 Atualmente sou um Consultor em Ciência de Dados e este é o link para o meu repositório contendo o Portfólio de Projetos: [Link](https://github.com/douglasdev-farias92?tab=repositories)
