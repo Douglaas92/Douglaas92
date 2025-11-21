@@ -1,13 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Douglas Domingues ("Portfólio em construção")</h1>
-<h3 align="center">Um entusiasta em Análise e Ciência de Dados no mundo digital</h3>
+<h3 align="center">Este repositório é apenas para fins de estudos acadêmicos</h3>
 
-- 🔭 Atualmente sou um Consultor em Ciência de Dados 
+- 🔭 Atualmente sou um Consultor em Ciência de Dados e este é o link para o meu repositório contendo o Portfólio de Projetos: [Link](https://github.com/douglasdev-farias92?tab=repositories)
 
 - 🌱 No momento, estou aprendendo um pouco mais sobre **Pyhton, PySpark, Machine Learning, IA Generativa e Power BI**
-
-- 👨‍💻 Todos os projetos desenvolvidos, podem ser achados em meu portfólio pessoal [aqui](https://github.com/Douglaas92?tab=repositories)
-
-- 💬 Me pergunte sobre **SQL, Python, Modelos de ML, Estatística Básica**
 
 - 📫 Caso precise falar comigo, me achará através do e-mail **d_doug_2@hotmail.com**
 
