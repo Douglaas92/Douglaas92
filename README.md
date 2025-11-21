@@ -2,7 +2,7 @@
 <h3 align="center">Repositório dedicado a estudos, experimentos e desenvolvimento contínuo</h3>
 
 - 🔭 Atualmente atuo como **Consultor em Ciência de Dados**.
-- Confira meu portfólio completo de projetos: **[Meu Portfólio](https://github.com/douglasdev-farias92?tab=repositories)**
+- Confira meu portfólio completo de projetos: **[Meu Portfólio](https://github.com/douglasdev-domingues92?tab=repositories)**
 
 - 🌱 Estou aprimorando meus conhecimentos em:
   - **Python, PySpark, SQL, Machine Learning, IA Generativa e Power BI**
